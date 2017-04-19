@@ -1,3 +1,6 @@
+This repository has been moved to a new location: http://github.com/nlpreviz/emr-nlp-server
+_____
+
 # NLPReViz: emr-nlp-server 
 
 emr-nlp-server provides the backend service for the [emr-vis-web](https://github.com/trivedigaurav/emr-vis-web) project.
