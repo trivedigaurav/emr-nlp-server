@@ -1,4 +1,4 @@
-This repository has been moved to a new location: http://github.com/nlpreviz/emr-nlp-server
+This repository is no longer active and has been moved to: http://github.com/nlpreviz/emr-nlp-server
 _____
 
 # NLPReViz: emr-nlp-server 
